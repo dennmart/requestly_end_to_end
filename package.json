@@ -1,0 +1,13 @@
+{
+  "name": "requestly_end_to_end",
+  "version": "1.0.0",
+  "description": "Proof-of-Concept end-to-end test for Requestly Chrome Extension",
+  "scripts": {
+    "test": "playwright test *.spec.ts"
+  },
+  "author": "Dennis Martinez",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.25.1"
+  }
+}
