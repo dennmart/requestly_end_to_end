@@ -5,4 +5,5 @@ This repository contains a simple end-to-end test as a proof-of-concept to demon
 ## Setup and running tests
 
 1. Install dependencies with `npm install`.
-2. Run tests with `npm test`.
+2. Download browsers for Playwright with `npx playwright install`.
+3. Run tests with `npm test`.
